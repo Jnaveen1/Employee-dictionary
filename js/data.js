@@ -1,5 +1,5 @@
 // data.js
-const employees = [
+window.employees = [
   { id: 1, firstName: "Aditi", lastName: "Sharma", email: "aditi.sharma@example.com", department: "HR", role: "Manager" },
   { id: 2, firstName: "Rahul", lastName: "Verma", email: "rahul.verma@example.com", department: "Engineering", role: "Frontend Developer" },
   { id: 3, firstName: "Sneha", lastName: "Rao", email: "sneha.rao@example.com", department: "Design", role: "UX Designer" },
